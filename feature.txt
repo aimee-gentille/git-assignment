@@ -1,1 +1,2 @@
 This branch demonstrates how to use the multi-cursor feature in VS Code.
+VS Code also provides an integrated terminal for running commands directly.
